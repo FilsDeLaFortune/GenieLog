@@ -165,4 +165,21 @@ class GildedRoseTest {
     app.updateQuality();
     assertThat(element.quality, is(0));
   }
+
+  @Test
+  @DisplayName("Test the update is doing is job")
+  void testUpdateIfNameConjuredSellInUnder0() {
+    Item element = new Item("Conjured", -1, 20);
+    GildedRose app = new GildedRose(new Item[] {element});
+    app.updateQuality();
+    assertThat(element.quality, is(16));
+  }
+  @Test
+  @DisplayName("Test the update is doing is job")
+  void testUpdateIfNameConjuredSellInUpper0() {
+    Item element = new Item("Conjured", 2, 20);
+    GildedRose app = new GildedRose(new Item[] {element});
+    app.updateQuality();
+    assertThat(element.quality, is(18));
+  }
 }

@@ -18,7 +18,7 @@ public class Item {
         this.sellIn--;
         switch(this.name){
             case "Conjured":
-                this.quality = this.sellIn<0 ? this.quality-4:this.quality-2;
+                this.quality -= this.sellIn<0 ? 4:2;
                 break;
             case "Aged Brie":
                 this.quality++;

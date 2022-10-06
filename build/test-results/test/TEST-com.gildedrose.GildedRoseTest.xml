@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gildedrose.GildedRoseTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-10-06T12:42:22" hostname="vm-etu-beallard1.local.isima.fr" time="0.089">
+<testsuite name="com.gildedrose.GildedRoseTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-10-06T12:55:21" hostname="vm-etu-beallard1.local.isima.fr" time="0.07">
   <properties/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.021"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.002"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameBackstageSellInUnder11" classname="com.gildedrose.GildedRoseTest" time="0.017"/>
+  <testcase name="TestUpdateIfNameBackstageQuality48SellInUnder6" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameAgedBrie" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameBackstageSellInUnder6" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="TestUpdateIfNameBackstageSellInUnder0Quality48" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
   <testcase name="Test that the name is unchanged" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test that the name is unchanged" classname="com.gildedrose.GildedRoseTest" time="0.01"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.003"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.006"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
-  <testcase name="Test the update is doing is job" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="Test the format of ToString" classname="com.gildedrose.GildedRoseTest" time="0.022"/>
+  <testcase name="TestUpdateIfQuality0RandomName" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameConjuredSellInUnder0" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameConjuredSellInUpper0" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="TestUpdateIfNameBackstageQuality49SellInUnder11" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameBackstageQuality50" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameBackstageQuality49SellInUpper11" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="TestUpdateIfNameAgedBrieSellInUnder0Quality48" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameAgedBrieSellInUnder0Quality51" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameRandomSellInUnder0Quality2" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="TestUpdateIfNameSulfurasSellInUnder0Quality2" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameSulfurasAndQualityEqu0" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfNameSulfurasAndQualitySup0" classname="com.gildedrose.GildedRoseTest" time="0.001"/>
+  <testcase name="TestUpdateIfQualityNot0RandomName" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

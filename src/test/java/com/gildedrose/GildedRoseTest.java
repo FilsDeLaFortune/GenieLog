@@ -133,10 +133,10 @@ class GildedRoseTest {
   @Test
   @DisplayName("Test the update is doing is job")
   void testUpdateIfNameAgedBrieSellInUnder0Quality51() {
-    Item element = new Item("Aged Brie", -1, 51);
+    Item element = new Item("Aged Brie", -1, 50);
     GildedRose app = new GildedRose(new Item[] {element});
     app.updateQuality();
-    assertThat(element.quality, is(51));
+    assertThat(element.quality, is(50));
   }
 
   @Test
